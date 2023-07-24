@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>
-    <img src="<iframe src="https://giphy.com/embed/QLKSt3wQqlj7a" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QLKSt3wQqlj7a">via GIPHY</a></p>">
+    <img src="https://giphy.com/embed/QLKSt3wQqlj7a" width="480" height="240" frameBorder="0">
         Everyone Greetings! It's nice to see you here
     </h1>
     <h2>My name is Ilnur. Kurmandaev Ilnur</h2>
