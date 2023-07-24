@@ -19,3 +19,5 @@
 - Learned in [HTML Academy](https://htmlacademy.ru/profession/react) on React developer profession
 - Also learned adaptive markup in [HTML Academy](https://htmlacademy.ru/intensive/adaptive)
 - Working on Cosmetic Online Shop ***Maroon*** designed by [HTML Academy](https://htmlacademy.ru/skills/code-maroon-shop)
+
+### Here below you can see my education projects, and some pet-projects. 
