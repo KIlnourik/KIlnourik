@@ -18,7 +18,7 @@
 
 ---
 ## About me:
-- I'm Frontend Developer.
+- I'm Beginning Frontend Developer.
 - Learned in [HTML Academy](https://htmlacademy.ru/profession/react) on React developer profession
 - Also learned adaptive markup in [HTML Academy](https://htmlacademy.ru/intensive/adaptive)
 - Working on Cosmetic Online Shop ***Maroon*** designed by [HTML Academy](https://htmlacademy.ru/skills/code-maroon-shop)
