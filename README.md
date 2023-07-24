@@ -1,10 +1,11 @@
 <div id="header" align="center">
-    <h1>Everybody who interested in my Github profile
-    Greetings!</h1>
+    <h1>Everyone Greetings! It's nice to see you here</h1>
     <h2>My name is Ilnur. Kurmandaev Ilnur</h2>
     <h2>Beginning Frontend Developer</h2>
 </div>
-<div id="socials">
+
+---
+<div id="socials" align="center>
     <a href="https://www.linkedin.com/in/ilnur-kurmandaev-196940282/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -12,9 +13,6 @@
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
 </div>
-
----
-
 
 ---
 ## About me:
