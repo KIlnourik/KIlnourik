@@ -4,6 +4,8 @@
         Приветствую!
     </h1>
     <h2>Меня зовут Ильнур Курмандаев</h2>
+    <p>Я начинающий фронтенд разработчик</p>
+    <p>Ниже Вы можете ознакомиться с выполненными мною проектами, как учебными, так и парочкой небольших пет-проектов.<p/>
 </div>
 
 <div id="socials" align="center">
@@ -14,4 +16,3 @@
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
 </div>
-
