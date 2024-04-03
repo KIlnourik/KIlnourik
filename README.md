@@ -9,7 +9,7 @@
 </div>
 <ul>Ниже Вы можете ознакомиться с выполненными мною проектами, как учебными, так и парочкой небольших пет-проектов:<ul/>
     <li>
-        <a href="https://delivery-form.vercel.app/" style="text-decoration: none; color: black">Форма доставки продукции</a>
+        <a href="https://delivery-form.vercel.app/" text-decoration="none" color="black">Форма доставки продукции</a>
         <a href="https://github.com/KIlnourik/delivery-form">Код проекта</a>
     </li>
     <li>
