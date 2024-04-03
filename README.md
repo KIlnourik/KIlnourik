@@ -5,21 +5,12 @@
     </h1>
     <h2>Меня зовут Ильнур Курмандаев</h2>
     <p>Я начинающий фронтенд разработчик</p>
-
 </div>
-<ul>Ниже Вы можете ознакомиться с выполненными мною проектами, как учебными, так и парочкой небольших пет-проектов:<ul/>
-    <li>
-        <a href="https://delivery-form.vercel.app/" text-decoration="none" color="black">Форма доставки продукции</a>
-        <a href="https://github.com/KIlnourik/delivery-form">Код проекта</a>
-    </li>
-    <li>
-        <a href="#">Магазин косметики Maroon</a>
-        <a href="https://github.com/KIlnourik/cosmetic-shop">Код проекта</a>
-    </li>
-    <li>
-        <a href="https://kilnourik.github.io/photographer_portfolio/">Сайт-портифоло фотографа</a>
-        <a href="https://github.com/KIlnourik/photographer_portfolio">Код проекта</a>
-    </li>
+
+### Ниже Вы можете ознакомиться с выполненными мною проектами, как учебными, так и парочкой небольших пет-проектов:
+- **[Форма доставки продукции]**(https://delivery-form.vercel.app/), [Код проекта](https://github.com/KIlnourik/delivery-form)
+- **[Магазин косметики Maroon]**(), [Код проекта](https://github.com/KIlnourik/cosmetic-shop)
+- **[Сайт-портифоло фотографа]**(https://kilnourik.github.io/photographer_portfolio/), [Код проекта]([https://github.com/KIlnourik/delivery-form)
 
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/ilnur-kurmandaev-196940282/">
