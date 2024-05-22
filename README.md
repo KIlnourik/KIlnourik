@@ -9,7 +9,7 @@
 
 ### Ниже Вы можете ознакомиться с выполненными мною проектами, как учебными, так и парочкой небольших пет-проектов:
 - [**Форма доставки продукции**](https://delivery-form.vercel.app/), [Код проекта](https://github.com/KIlnourik/delivery-form)
-- [**Магазин косметики Maroon**](), [Код проекта](https://github.com/KIlnourik/cosmetic-shop)
+- **Магазин косметики Maroon**, [Код проекта](https://github.com/KIlnourik/cosmetic-shop)
 - [**Сайт-портфолио фотографа**](https://kilnourik.github.io/photographer_portfolio/), [Код проекта](https://github.com/KIlnourik/delivery-form)
 
 <div id="socials" align="center">
