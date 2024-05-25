@@ -16,4 +16,7 @@
     <a href="https://t.me/KIlnourik">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
+        <a href="https://vk.com/daslegan">
+        <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="VK">
+    </a>
 </div>
