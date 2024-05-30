@@ -5,7 +5,7 @@
     </h1>
     <h2>Меня зовут Ильнур Курмандаев</h2>
     <p>Я начинающий фронтенд разработчик</p>
-    <a href="[https://vk.com/daslegan](https://surgut.hh.ru/applicant/resumes/view?resume=3274d213ff0bc3a53b0039ed1f6d4455376a6c)">Резюме на hh.ru
+    <a href="https://surgut.hh.ru/applicant/resumes/view?resume=3274d213ff0bc3a53b0039ed1f6d4455376a6c">Резюме на hh.ru
         <img src="https://img.shields.io/badge/Headhunter-red?style=for-the-badge&logo=hh&logoColor=white" alt="Headhunter">
     </a>
 </div>
