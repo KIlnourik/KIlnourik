@@ -12,7 +12,7 @@
 
 ### Ниже Вы можете ознакомиться с выполненными мною парочкой небольших пет-проектов:
 - [**Форма доставки продукции**](https://delivery-form.vercel.app/), [Репозиторий проекта](https://github.com/KIlnourik/delivery-form) - **на Vanilla Javascript**
-- **Магазин косметики Maroon**, [Репозиторий проекта](https://github.com/KIlnourik/cosmetic-shop) - **на React**
+- [**Магазин косметики Maroon**](https://maroon-cosmetic.vercel.app/), [Репозиторий проекта](https://github.com/KIlnourik/cosmetic-shop) - **на React**
 - [**Сайт-портфолио фотографа**](https://kilnourik.github.io/photographer_portfolio/), [Репозиторий проекта](https://github.com/KIlnourik/delivery-form) - **сверстанный на SCSS и сборщике Gulp статический сайт**
 
 #### Также можете ознакомиться со [SPA проектом на React](https://camera-shop-kurmandaev.vercel.app/), который разрабатывался на акселераторе HTMLAcademy. Здесь ссылка на [репозиторий проекта](https://github.com/KIlnourik/camera-shop)
