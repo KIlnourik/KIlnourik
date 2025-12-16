@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>
-    <iframe src="https://gifs.ru/embed/40054" width="480" height="480" frameBorder="0" allowFullScreen></iframe><p><a href="https://gifs.ru/gifs/40054">GIFS.RU</a></p><br/>
+    <img src="https://gifs.ru/embed/40054" width="480" height="480" frameBorder="0" allowFullScreen></img><br/>
         Приветствую!
     </h1>
     <h2>Меня зовут Ильнур Курмандаев</h2>
